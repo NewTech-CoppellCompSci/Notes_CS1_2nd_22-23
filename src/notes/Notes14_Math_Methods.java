@@ -7,8 +7,16 @@ import java.util.Scanner;
  * 
  * ALLLL SOORts of this to make life easier
  * 
+ * Exponents
+ *   Math.pow(<base>, <exponent>) -> <double>
  * 
+ * Square Roots
+ *   Math.sqrt(<number>) -> <double> (Mostly)
  * 
+ * Calculate Maximum and Minimum Values
+ *   Math.max(<num>, <num>) -> <double> or <int>
+ *   Math.min(<num>, <num>) -> <double> or <int>
+ *   
  */
 
 public class Notes14_Math_Methods {
@@ -48,8 +56,8 @@ public class Notes14_Math_Methods {
 		
 		
 		/*
-		 * Math.max(<num>, <num>) -> <int> or <double>
-		 * Math.min(<num>, <num>) -> <int> or <double>
+		 * Math.max(<num>, <num>) -> <double> or <int>
+		 * Math.min(<num>, <num>) -> <double> or <int>
 		 * 
 		 * 
 		 * 
