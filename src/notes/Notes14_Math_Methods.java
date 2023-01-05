@@ -17,11 +17,21 @@ import java.util.Scanner;
  *   Math.max(<num>, <num>) -> <double> or <int>
  *   Math.min(<num>, <num>) -> <double> or <int>
  *   
+ *   
+ * Pi
+ * 	 Math.PI
+ *   
  */
 
 public class Notes14_Math_Methods {
 
 	public static void main(String[] args) {
+		
+		/*
+		 * Pi
+		 */
+		System.out.println("Pi = " + Math.PI);
+		System.out.println();
 		
 		/*
 		 * Math.pow(<base>, <exponent>) -> <double>
