@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
  * Math.random() Notes
  * 
- * Math.random()
+ * 
  */
 
 public class Notes15_Math_Random {
