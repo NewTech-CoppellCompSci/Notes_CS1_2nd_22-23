@@ -2,7 +2,7 @@ package notes;
 
 import java.util.Scanner;
 
-public class Notes18_Switch_Statements {
+public class Notes17a_Switch_Statements {
 
 	
 	public static void main(String[] args) {
